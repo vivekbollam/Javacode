@@ -1,0 +1,78 @@
+[33mcommit 0b0940a975b0b866dc865e6891633ab138f210ac[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: vivek <vivekbollam24@gmail.com>
+Date:   Thu Dec 2 12:26:17 2021 +0530
+
+    insert
+
+[33mcommit 6790ea1f2f579007846e6fce9599a63bc6688bc4[m[33m ([m[1;31morigin/twitter[m[33m, [m[1;31morigin/facebook[m[33m, [m[1;32mtwitter[m[33m, [m[1;32mfacebook[m[33m)[m
+Merge: 2423825 f7a87aa
+Author: vivek <vivekbollam24@gmail.com>
+Date:   Thu Dec 2 12:11:45 2021 +0530
+
+    Merge branch 'feature'
+
+[33mcommit f7a87aaacb2bfcba87f5b3e0f098554f0ebd6dfe[m[33m ([m[1;32mfeature[m[33m)[m
+Author: vivek <vivekbollam24@gmail.com>
+Date:   Thu Dec 2 12:10:58 2021 +0530
+
+    adding a new file
+
+[33mcommit 2423825afb344c997564310272c02aea129c0378[m
+Merge: 43dc53d 97c670e
+Author: vivekbollam <92625168+vivekbollam@users.noreply.github.com>
+Date:   Thu Dec 2 12:07:05 2021 +0530
+
+    Merge pull request #2 from vivekbollam/Feature
+    
+    Update google
+
+[33mcommit 97c670e4afe7e80a14a85558ae5f0f2336cf1c3d[m[33m ([m[1;31morigin/Feature[m[33m)[m
+Author: vivekbollam <92625168+vivekbollam@users.noreply.github.com>
+Date:   Thu Dec 2 12:05:37 2021 +0530
+
+    Update google
+
+[33mcommit 43dc53d04de01c2c3c57931f7add3dfa65d00406[m
+Merge: d553bba 70a901c
+Author: vivekbollam <92625168+vivekbollam@users.noreply.github.com>
+Date:   Thu Dec 2 12:04:27 2021 +0530
+
+    Merge pull request #1 from vivekbollam/Feature
+    
+    Create google
+
+[33mcommit 70a901c6940ab647099127b829d49139bbf970b9[m
+Author: vivekbollam <92625168+vivekbollam@users.noreply.github.com>
+Date:   Thu Dec 2 12:03:47 2021 +0530
+
+    Create google
+
+[33mcommit d553bba2981a57125dfaeb8e79fe684827a73111[m
+Author: vivekbollam <92625168+vivekbollam@users.noreply.github.com>
+Date:   Thu Dec 2 11:58:15 2021 +0530
+
+    Update revert file
+
+[33mcommit a1b4f82c403bc2a638e60d0594c5b0069518a3ef[m
+Author: vivekbollam <92625168+vivekbollam@users.noreply.github.com>
+Date:   Thu Dec 2 11:57:50 2021 +0530
+
+    Create revert file
+
+[33mcommit b6a8b90b54749bd386929d0c8ed351f82240e3da[m
+Author: vivek <vivekbollam24@gmail.com>
+Date:   Tue Nov 30 13:40:15 2021 +0530
+
+    second commit
+
+[33mcommit 98d5b1becc73107b8f1ef8223974517bc5f547dd[m
+Author: vivekbollam <vivekbollam24@gmail.com>
+Date:   Tue Nov 30 13:29:42 2021 +0530
+
+    i want to add into github
+
+[33mcommit 89ebde70a269b4b4f885bff12831e83d327ef100[m
+Author: vivekbollam <92625168+vivekbollam@users.noreply.github.com>
+Date:   Tue Nov 30 13:01:35 2021 +0530
+
+    Initial commit
